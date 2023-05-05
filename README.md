@@ -17,7 +17,7 @@
 
 ---
 
- - Ferramentas de trabalho: ** Visual Studio Code, Mit App Inventor, Codepen, Roblox Studio, Replit, P5.js, Git e GitHub.**
+ - Ferramentas de trabalho: **Visual Studio Code, Mit App Inventor, Codepen, Roblox Studio, Replit, P5.js, Git e GitHub.**
 
 
 ---
