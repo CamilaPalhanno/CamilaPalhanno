@@ -9,11 +9,13 @@
 
 --- 
 
-👩🏻‍💻 Desenvolvedora apaixonada por inovação e educação;
-👩🏻 Coding Teacher  para crianças;
-🤓 Habilidades em Java, Lua, JavaScript, HTML e CSS;
-🤖 Entusiasta em Machine Learning.
-💱 Entusiasta em Blockchain! 
+- 👩🏻‍💻 Desenvolvedora apaixonada por inovação e educação;
+- 👩🏻 Coding Teacher  para crianças;
+- 🤓 Habilidades em Java, Lua, JavaScript, HTML e CSS;
+- 🤖 Entusiasta em Machine Learning.
+- 💱 Entusiasta em Blockchain! 
+
+---
 
  - Ferramentas de trabalho: ** Visual Studio Code, Mit App Inventor, Codepen, Roblox Studio, Replit, P5.js, Git e GitHub.**
 
