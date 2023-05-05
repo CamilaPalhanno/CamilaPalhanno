@@ -7,6 +7,8 @@
 
 ### Sobre Mim: 
 
+--- 
+
 👩🏻‍💻 Desenvolvedora apaixonada por inovação e educação;
 👩🏻 Coding Teacher  para crianças;
 🤓 Habilidades em Java, Lua, JavaScript, HTML e CSS;
